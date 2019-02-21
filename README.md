@@ -12,7 +12,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock market analyst
 
-### Easy
+# Goal
 
 * Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
@@ -20,9 +20,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Your result should look as follows (note: all solution images are for 2015 data).
 
-
-### Moderate
-
+#
 * Create a script that will loop through all the stocks and take the following info.
 
   * Yearly change from what the stock opened the year at to what the closing price was.
@@ -37,33 +35,22 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * The result should look as follows.
 
-
-### Hard
-
+#
 * Your solution will include everything from the moderate challenge.
 
 * Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 * Solution will look as follows.
 
-
-### CHALLENGE
-
+#
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
 
 * This can be applied to any of the difficulties.
 
-### Other Considerations
+# Fidings
 
-* Use the sheet `alphabetical_testing.xlsx` while developing your code. This dataset is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
+![x](Images/Solution 1.png)
 
-* Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
+![x](Images/Solution 2.png)
 
-## Submission
-
-* To submit please upload the following to Github:
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
+![x](Images/Solution 3.png)
