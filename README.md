@@ -51,6 +51,6 @@ As a Stock market analyst
 
 ![x](Images/solution1.png)
 
-![x]("Images/solution 2.png")
+![x](Images/solution2.png)
 
-![x]("Images/solution 3.png")
+![x](Images/solution3.png)
