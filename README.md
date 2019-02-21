@@ -17,9 +17,6 @@ As a Stock market analyst
 * Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
 * You will also need to display the ticker symbol to coincide with the total volume.
-
-* Your result should look as follows (note: all solution images are for 2015 data).
-
 #
 * Create a script that will loop through all the stocks and take the following info.
 
@@ -33,14 +30,7 @@ As a Stock market analyst
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
-
-#
-* Your solution will include everything from the moderate challenge.
-
 * Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
-
-* Solution will look as follows.
 
 #
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
