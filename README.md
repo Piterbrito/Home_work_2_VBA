@@ -1,4 +1,4 @@
-#The VBA of Wall Street
+# The VBA of Wall Street
 
 # Background
 
@@ -50,7 +50,9 @@ As a Stock market analyst
 # Findings
 
 ![x](images/solution1.png)
+#
 
 ![x](images/solution2.png)
+#
 
 ![x](images/solution3.png)
