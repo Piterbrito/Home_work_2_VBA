@@ -49,8 +49,8 @@ As a Stock market analyst
 
 # Findings
 
-![x](Images/solution1.png)
+![x](images/solution1.png)
 
-![x](Images/solution2.png)
+![x](images/solution2.png)
 
-![x](Images/solution3.png)
+![x](images/solution3.png)
