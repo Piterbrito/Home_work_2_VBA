@@ -1,16 +1,16 @@
-The VBA of Wall Street
+#The VBA of Wall Street
 
-## Background
+# Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA.
 
-### Files
+# Files
 
 * [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
-### Stock market analyst
+As a Stock market analyst
 
 # Goal
 
@@ -47,10 +47,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * This can be applied to any of the difficulties.
 
-# Fidings
+# Findings
 
-![x](Images/Solution 1.png)
+![x](Images/solution 1.png)
 
-![x](Images/Solution 2.png)
+![x](Images/solution 2.png)
 
-![x](Images/Solution 3.png)
+![x](Images/solution 3.png)
