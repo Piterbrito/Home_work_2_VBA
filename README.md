@@ -1,4 +1,4 @@
-# The VBA of Wall Street
+# Stock-data-Analytics Wall Street
 
 # Background
 
